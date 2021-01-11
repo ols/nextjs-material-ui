@@ -1,0 +1,51 @@
+{
+  "header": {
+    "music": "Musik",
+    "performance": "Uppträdanden",
+    "portfolio": "Galleri",
+    "review": "Press",
+    "about": "Om",
+    "tooltip": {
+      "email": "Ge mig ett epostmeddelande",
+      "twitter": "Följ mig på Twitter",
+      "facebook": "Skicka mig ett meddelande på Facebook",
+      "instagram": "Följ mig på Instagram"
+    }
+  },
+  "pageloading": "Laddar sidinformation för sidan: ",
+  "brand": {
+    "head": "WIBERT STUR",
+    "subtitle": "Musiker, Bariton, Artist"
+  },
+  "notfound": "Sidan du begärde kunde inte hittas.",
+  "show": {
+    "more": "Visa fler ...",
+    "info": "Visa mer..."
+  },
+  "performance": {
+    "watch": "Uppträdanden"
+  },
+  "music": {
+    "listen": "Lyssna"
+  },
+  "portfolio": {
+    "head": "Bildportfölj",
+    "stage": "På scenen",
+    "behindscene": "Bakom kulisserna"
+  },
+  "review": {
+    "head": "Pressröster",
+    "quote": {
+      "author1": "Sven Ripa @ Smaragdien",
+      "text1": "Det har länge varit ett faktum att en läsare kommer att distraheras av det läsbara innehållet på en sida när man tittar på dess layout. Poängen med att använda Lorem Ipsum är att den har en mer eller mindre normal fördelning av bokstäver, i motsats till att använda 'Innehåll här, innehåll här'.",
+      "author2": "Rutger Jönåker @ Svenska Gaffeln",
+      "text2": "Det finns många variationer av passager av Lorem Ipsum tillgängliga, men majoriteten har lidit förändring i någon form, genom injicerad humor."
+    }
+  },
+  "about": {
+    "bio": {
+      "head": "BIO",
+      "description": "Lorem Ipsum är helt enkelt skräppost från tryck- och sättningsindustrin. Lorem Ipsum har varit branschens standarddummytext ända sedan 1500-talet, då en okänd skrivare tog en kombi av typen och klättrade den för att göra en typprovbok. Det har överlevt inte bara fem århundraden, utan också språnget till elektronisk typsättning, förblir i stort sett oförändrat. Det blev populärt på 1960-talet med lanseringen av Letraset-ark som innehåller Lorem Ipsum-passager, och mer nyligen med stationär publiceringsprogramvara som Aldus PageMaker inklusive versioner av Lorem Ipsum."
+    }
+  }
+}
